@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MongoURI":"mongodb+srv://jonn:24164880@cluster0.9pkzs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    }
+}
